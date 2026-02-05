@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 🚀 Technical Stack:
-- Frontend: React with Next.js framework
-- Backend: Node.js with Express.js framework
+- Frontend: React, Next.js & Astro JS 
+- Backend: Go & Express.js framework
 - Database: PostgreSQL
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ashimrai123&theme=radical)
